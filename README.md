@@ -1,6 +1,6 @@
 # ClassificationModel
 
-Implementation of various classification and finding the best among them using ROC Curve and model evaluation metric.
+Implementation of various classification and finding the best among them using ROC Curve as a model evaluation metric.
 
 ROC Curve is the comparison of True Positive Rate (TPR) and False Positive Rate (FPR) and TPR comes with the cost of FPR, we are analyzing the minimum FPR cost with the maximum TPR.
 
